@@ -1,0 +1,19 @@
+tower,month,demand_hours
+Tower A,2026-12,640
+Tower A,2027-01,700
+Tower A,2027-02,760
+Tower A,2027-03,820
+Tower A,2027-04,880
+Tower A,2027-05,900
+Tower B,2026-12,420
+Tower B,2027-01,430
+Tower B,2027-02,440
+Tower B,2027-03,430
+Tower B,2027-04,420
+Tower B,2027-05,410
+Tower C,2026-12,300
+Tower C,2027-01,380
+Tower C,2027-02,520
+Tower C,2027-03,600
+Tower C,2027-04,610
+Tower C,2027-05,560

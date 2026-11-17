@@ -1,0 +1,4 @@
+tower,current_fte,productive_hours_per_fte_month,target_utilization,hiring_lead_time_months
+Tower A,4,140,0.85,2
+Tower B,3,140,0.85,2
+Tower C,3,140,0.85,2
